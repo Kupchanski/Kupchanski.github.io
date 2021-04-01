@@ -1,0 +1,34 @@
+          <!-- About -->
+          <section id="sidebar">
+            <section id="intro">
+              <a href="{{site.author.cv}}" class="logo"><img src="{{site.author.logo | prepend: site.baseurl}}" alt="" /></a>
+              <header>
+                <h2>Blog</h2>
+                <p>By <a href="{{site.author.cv}}">{{site.author.name}}</a></p>
+              </header>
+            </section>
+            <section class="blurb">
+              <h2>О сайте</h2>
+              <p>{{ site.description }}</p>
+              <h3>E-mail</h3>
+              <p>{{site.author.email}}</p>
+              <h3>Контакты в соц. сетях</h3>
+              <ul class="actions">
+                <li><a href="//kaggle.com/kupchanski" >Kaggle</a></li>
+                <li><a href="//www.linkedin.com/in/kirill-burovin-51681a18b/" >Linkedin</a></li>
+                <li><a href="//tgstat.ru/channel/@DataScienceGuy" >Telegram</a></li>
+              </ul>
+              
+            </section>
+ 
+
+            <!-- Footer -->
+              <section id="footer">
+                <ul class="icons">
+                  <li><a href="mailto:{{site.author.email}}" class="fa-envelope"><span class="label">Email</span></a></li>
+                  <li><a href="https://www.linkedin.com/in/kirill-burovin-51681a18b/" class="fa-linkedin-square"><span class="label">LinkedIn</span></a></li>
+                  <li><a href="https://github.com/{{site.author.github_username}}" class="fa-github"><span class="label">GitHub</span></a></li>
+               
+                </ul>
+              </section>
+          </section>

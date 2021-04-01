@@ -1,0 +1,9 @@
+# blog page sections
+- name: deeplearning
+  href: '/deeplearning/'
+
+- name: datascience
+  href: '/datascience/'
+
+- name: other
+  href: '/other/'
