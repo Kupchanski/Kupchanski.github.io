@@ -2,7 +2,7 @@ title: IT-блог
 description: > # this means to ignore newlines until "baseurl:"
   Личный блог автора канала Data Science Guy<br>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://datascienceguy.ru" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://datascienceguy.uml.ru" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 author:
