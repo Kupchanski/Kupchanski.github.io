@@ -1,0 +1,119 @@
+I"�<p>Вижу как часто люди ищут, где же им подтянуть математику для data science. Я собрал для вас список бесплатных ресурсов, где можно самостоятель но изучить нужную тему по математике, как школьной так и не только.
+Видео, где рассказываю обо всем подробнее:
+<!-- blank line --></p>
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6ajAbghWzrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</figure>
+<!-- blank line -->
+
+<p>##</p>
+<h2 id="школьная-программа">Школьная программа:</h2>
+<ul>
+  <li>https://www.khanacademy.org/</li>
+  <li>https://interneturok.ru/subject/algebra (видеоуроки платные, тестовые бесплатные (они под видео)</li>
+  <li>https://lazarev.interneturok.ru/blog/matematika_za_20_urokov - если кратко повторить</li>
+</ul>
+
+<p>от подписчиков:</p>
+<ul>
+  <li>100 уроков математики Савватеева - https://www.youtube.com/playlist?list=PLqBfxn8OBMGrsA_YynaQWqHKhL7kEvL4X (список видео не полный, но вроде пополняется постоянно)</li>
+  <li>https://math.ua/ - школьная математика</li>
+  <li>https://www.youtube.com/playlist?list=PLo55sx3uqU0xTlDtXj2FIqTbbBaaOWJFm - плейлист для повторения школьной математики</li>
+</ul>
+
+<h2 id="статистика">Статистика:</h2>
+
+<ul>
+  <li>https://stepik.org/course/76 (курс временно закрыт до 5 ноября) Поищите на ютубе лекции из этого курса пока что.</li>
+  <li>https://stepik.org/course/524</li>
+  <li>https://www.youtube.com/user/joshstarmer</li>
+  <li>https://www.khanacademy.org/math/statistics-probability</li>
+  <li>https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-videos/</li>
+</ul>
+
+<h2 id="книги-по-статистике">Книги по статистике</h2>
+<ul>
+  <li>Наглядная математическая статистика. Учебное пособие</li>
+  <li>Голая статистика. Самая интересная книга о самой скучной науке</li>
+  <li>Практическая статистика для специалистов Data Science - Брюс Эндрю, Брюс Питер</li>
+</ul>
+
+<h2 id="теория-вероятностей">Теория вероятностей:</h2>
+<ul>
+  <li>https://stepik.org/course/2911/promo#toc</li>
+  <li>https://stepik.org/course/3209/promo#toc</li>
+  <li>https://stepik.org/course/3089/syllabus</li>
+  <li>https://www.coursera.org/learn/probability-theory-basics</li>
+</ul>
+
+<h3 id="и-книга-о-статистике-и-теории-вероятностей-вместе">И книга о статистике и теории вероятностей вместе</h3>
+<p>Кремер - Теория вероятностей и математическая статистика</p>
+
+<h2 id="линейная-алгебра">Линейная алгебра.</h2>
+
+<ul>
+  <li>https://www.youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2
+как альтернатива (https://www.youtube.com/playlist?list=PLmu_y3-DV2_kkWhk2mK0opp7ma8mSS3xf)</li>
+  <li>http://mathprofi.ru/matematika_dlya_chainikov.html</li>
+  <li>https://www.coursera.org/learn/algebra-lineynaya</li>
+</ul>
+
+<h3 id="а-затем-для-закрепления-пройти-эти-курсы-можно-не-все">а затем для закрепления пройти эти курсы (можно не все)</h3>
+<ul>
+  <li>https://stepik.org/course/2461/syllabus</li>
+  <li>https://stepik.org/course/4940/promo#toc</li>
+  <li>https://stepik.org/course/79/promo#toc</li>
+  <li>Книга: Тартышников (как база) = http://old.inm.ras.ru/library/Tyrtyshnikov/all.pdf</li>
+</ul>
+
+<h2 id="матанализ">Матанализ.</h2>
+
+<ul>
+  <li>Снова смотрим - https://www.youtube.com/watch?v=WUvTyaaNkzM&amp;list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr (есть русские сабы)</li>
+  <li>https://www.khanacademy.org/math/precalculus и остальные по калкулусу</li>
+  <li>Можно посмотреть этот курс: https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/</li>
+</ul>
+
+<h3 id="курсы-на-степике">Курсы на степике:</h3>
+<ul>
+  <li>https://stepik.org/course/716/syllabus</li>
+  <li>https://stepik.org/course/711/syllabus</li>
+</ul>
+
+<h2 id="ютуб-каналы">Ютуб каналы:</h2>
+<ul>
+  <li>https://www.youtube.com/user/VideoMatan/playlists</li>
+  <li>https://www.youtube.com/channel/UCeISxWd5UTxH6-uXp3ev-5w</li>
+  <li>https://www.youtube.com/c/3blue1brown/featured</li>
+  <li>https://www.youtube.com/user/trushinbv/playlists</li>
+  <li>https://www.youtube.com/channel/UCur_wYe8uQOh5FLXjwbWemw</li>
+</ul>
+
+<h2 id="если-бы-мог-выбрать-только-одну-книгу-для-изучения-всего--">Если бы мог выбрать только одну книгу для изучения всего -</h2>
+<p>Книга- https://mml-book.github.io/</p>
+
+<h2 id="если-бы-мог-выбрать-только-один-плейлист-для-изучения-всего">Если бы мог выбрать только один плейлист для изучения всего</h2>
+<p>https://www.youtube.com/playlist?list=PL7y-1rk2cCsAqRtWoZ95z-GMcecVG5mzA</p>
+
+<h2 id="полезные-ресурсы-от-подписчиков">Полезные ресурсы от подписчиков:</h2>
+<ul>
+  <li>https://www.coursera.org/learn/mathematics-and-python?specialization=machine-learning-data-analysis#syllabus</li>
+  <li>https://www.coursera.org/learn/datasciencemathskills#about</li>
+  <li>Дискретная матеша https://stepik.org/1127 - сокращённый вариант 3 следующих</li>
+  <li>Тервер -  https://stepik.org/3089</li>
+  <li>Комбинаторика - https://stepik.org/125</li>
+  <li>Графы - https://stepik.org/126</li>
+</ul>
+
+<h3 id="курсы-по-школьной-математике">Курсы по школьной математике:</h3>
+<ul>
+  <li>https://stepik.org/course/73051/promo - 7 класс</li>
+  <li>https://stepik.org/course/69850/promo - 8 класс.</li>
+  <li>https://stepik.org/course/69451/promo - 9 класс.</li>
+  <li>https://stepik.org/course/57593/promo - 10 класс.</li>
+  <li>100 уроков математики Савватеева - https://www.youtube.com/playlist?list=PLqBfxn8OBMGrsA_YynaQWqHKhL7kEvL4X</li>
+</ul>
+
+<p>Желаю успехов!</p>
+
+:ET
