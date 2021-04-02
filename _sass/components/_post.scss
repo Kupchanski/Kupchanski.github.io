@@ -24,11 +24,11 @@
 			.title {
 				@include vendor('flex-grow', '1');
 				-ms-flex: 1;
-				padding: (_size(section-spacing) * 1.25) _size(section-spacing) (_size(section-spacing) * 1.1) _size(section-spacing);
+				padding: (_size(section-spacing) * 1.2) _size(section-spacing) (_size(section-spacing) * 1.1) _size(section-spacing);
 
 				h2 {
 					font-weight: _font(weight-heading-extrabold);
-					font-size: 1.5em;
+					font-size: 1em;
 				}
 
 				> :last-child {
@@ -37,7 +37,7 @@
 			}
 
 			.meta {
-				@include padding(_size(section-spacing) * 1.25, _size(section-spacing));
+				@include padding(_size(section-spacing) * 1.2, _size(section-spacing));
 				border-left: solid 1px _palette(border);
 				min-width: 17em;
 				text-align: right;
